@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @allen-brandon
 - 👀 I’m interested in machine learning, competitive coding, and game design.
-- I'm perpetually fascinated by how others think, what to learn from them, and how to help them.
+I'm perpetually fascinated by how others think, what to learn from them, and how to help them.
 
 - 🌱 I’m always working to learn more computer science fundamentals.
-- Right now I'm learning C++, with my eyes set on Codeforces and UE5.
+Right now I'm learning C++, with my eyes set on Codeforces and UE5.
 
 - 💞️ I’m looking for ways to foster community, sustainability, and genuine self-expression.
-- If you have a way you want to do that then hit me up.
+If you have a way you want to do that then hit me up.
 
 - 📫 Email me@brandon-allen.com
 - Message me linkedin.com/in/brandon-allen-a22b20209
