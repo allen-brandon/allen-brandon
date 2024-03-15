@@ -2,8 +2,8 @@
 - 👀 I’m interested in machine learning, competitive coding, and game design.
 I'm perpetually fascinated by how others think, what to learn from them, and how to help them.
 
-- 🌱 I’m always working to learn more computer science fundamentals.
-Right now I'm learning C++, with my eyes set on Codeforces and UE5.
+- 🌱 I study math and DSA on a constant basis.
+Right now I'm specifically focusing on recreating common ML patterns, such as convolutional layers, or XGBoost.
 
 - 💞️ I’m looking for ways to foster community, sustainability, and genuine self-expression.
 If you have a way you want to do that then hit me up.
